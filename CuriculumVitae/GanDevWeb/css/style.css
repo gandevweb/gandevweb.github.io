@@ -395,6 +395,9 @@ nav{
 }
 #section5 .fas {
 	font-size: 4rem;
+	color: var(--color-primary-4);
+	-webkit-text-stroke: 0.05rem;
+	-webkit-text-stroke-color: var(--color-secondary-1-0);
 }
 .heading{
 	text-align: center;
@@ -426,7 +429,7 @@ nav{
 }
 .btn-mess{
 	border: 0.1rem solid var(--gray-lightgray);
-	background: #ffa500;
+	background: var(--color-primary-3);
 	color: #fff;
 	width: 100%;
 	font-weight: bold;
