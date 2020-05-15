@@ -271,7 +271,8 @@ nav {
     color: var(--color-secondary-2-0);
 }
 
-#section2 a:hover>i {
+#section2 .exp-title:hover>a i {
+    color: #000;
     -webkit-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
