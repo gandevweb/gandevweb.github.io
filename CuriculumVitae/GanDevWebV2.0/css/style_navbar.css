@@ -12,6 +12,7 @@ img[alt="myLogo"] {
     font-size: 0.9rem;
     z-index: 101;
     background-color: var(--color-secondary-2-1);
+    font-family: 'crete round', sans-serif;
 }
 
 .navbar-toggler {
