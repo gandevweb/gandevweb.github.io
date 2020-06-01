@@ -1,0 +1,72 @@
+#contact {
+    margin-bottom: 1rem;
+}
+
+#contact .fas {
+    font-size: 4rem;
+    color: var(--color-primary-4);
+    -webkit-text-stroke: 0.05rem;
+    -webkit-text-stroke-color: var(--color-secondary-1-0);
+}
+
+.heading {
+    text-align: center;
+}
+
+#contact-form {
+    font-size: 1rem;
+    background: var(--color-secondary-2-1);
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.blue-star {
+    color: blue;
+}
+
+.form-control {
+    height: 2rem;
+    font-size: 1rem;
+}
+
+.comment {
+    font-style: italic;
+    font-size: 1rem;
+    color: var(--color-secondary-1-3);
+}
+
+.need-info {
+    font-weight: bold;
+}
+
+#contact-form input[type=submit] {
+    margin: 1rem auto;
+    display: block;
+}
+
+.btn-mess {
+    border: 0.1rem solid var(--gray-lightgray);
+    background: var(--color-primary-3);
+    color: #fff;
+    width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.btn-mess:hover {
+    background: #333;
+    border-color: #ffa500;
+}
+
+.ty {
+    text-align: center;
+    margin-top: 1.5rem;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+#message {
+    height: 10vh;
+}
